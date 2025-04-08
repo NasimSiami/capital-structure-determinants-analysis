@@ -30,7 +30,6 @@ This project is inspired by the following paper:
 
 > 📎 **See:** `Reference_Paper.pdf`
 
-> ⚠️ *Note: This paper is shared under fair academic use. If you are sharing this repo publicly, make sure you have the right to distribute it or consider linking to the publisher instead.*
 
 ## 🔧 Technologies Used
 
